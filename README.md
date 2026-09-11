@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Add%20Link-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/sameer-gandhi-9a7a03361)
-[![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:sm0031625@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/sameer-gandhi)
 
 <br/>
@@ -182,45 +182,14 @@ A Python-based conversational assistant integrating voice I/O with live data and
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sameer-gandhi&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-gandhi&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="95%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sameer-gandhi/sameer-gandhi/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
 ```yaml
 current_focus:
   learning:
-    - Advanced DSA patterns (Trees, Graphs, Dynamic Programming)
-    - System design fundamentals
+    - Mastering DSA in C++
+    - MERN stack development
   building:
     - Personal portfolio and project documentation
     - Consistent daily LeetCode practice
@@ -239,7 +208,7 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-your.email@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-sm0031625@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:sm0031625@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sameer--gandhi-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/sameer-gandhi-9a7a03361)
 [![GitHub](https://img.shields.io/badge/GitHub-sameer--gandhi-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/sameer-gandhi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Add%20Link-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](#)
