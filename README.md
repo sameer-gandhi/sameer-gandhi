@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sameer%20Gandhi&fontSize=46&fontColor=E9E4FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18&descColor=C4B5FD" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+ECE+(Honours)+%7C+AKTU;Building+DSA+Foundations+in+C%2B%2B;Full-Stack+Development+with+React+%2B+Supabase;Aspiring+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+ECE+(Honours)+%7C+AKTU;Building+DSA+Foundations+in+C%2B%2B;MERN+Stack+Developer;Aspiring+Software+Engineer" alt="Typing SVG" />
 
 <br/>
 
@@ -31,7 +31,7 @@
 
 I'm an Electronics & Communication Engineering (Honours) student at AKTU, specializing in **Sensor and Transducer Technology**, currently building toward a career in Software Engineering.
 
-My present focus is strengthening **Data Structures & Algorithms in C++** while developing full-stack engineering skills with **React, TypeScript, and Supabase**. I care about shipping things that are actually used — my Free Fire Tournament Management Platform has run real tournaments for real users, not just sat in a repository.
+My present focus is strengthening **Data Structures & Algorithms in C++** while developing full-stack engineering skills using **MERN Stack**. I care about shipping things that are actually used.
 
 **Open To:**
 - 💼 Software Engineering / Full-Stack Developer Internships
@@ -174,9 +174,6 @@ A Python-based conversational assistant integrating voice I/O with live data and
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sameer-gandhi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-gandhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="42%"/>
 
 <img src="https://streak-stats.demolab.com/?user=sameer-gandhi&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
 
