@@ -144,7 +144,7 @@ A Python-based conversational assistant integrating voice I/O with live data and
 |---|---|
 | QuizOff 2026 — Main Quiz | Scored **15/15** (Unstop, July 2026) |
 | LeetCode Milestone | **100+ problems** solved at Leetcode in C++ |
-| LeetCode Consistency | 50-Day Badge |
+| LeetCode Consistency | 50-Day Badge in 2026|
 
 </div>
 
