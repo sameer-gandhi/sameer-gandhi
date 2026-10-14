@@ -29,7 +29,7 @@
 
 ## 🧠 About Me
 
-I'm an Electronics & Communication Engineering (Honours) student at AKTU, specializing in **Sensor and Transducer Technology**, currently building toward a career in Software Engineering.
+I'm an Electronics & Communication Engineering (Honours) student at AKTU(Lucknow), specializing in **Sensor and Transducer Technology**, currently building toward a career in Software Engineering.
 
 My present focus is strengthening **Data Structures & Algorithms in C++** while developing full-stack engineering skills using **MERN Stack**. I care about shipping things that are actually used.
 
